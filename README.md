@@ -1,5 +1,5 @@
 # repo-kedua
-seken chia chia chia
+seken repo.. testing merge pull request
 
 
 keyol kacak lagi begaya
